@@ -3,7 +3,7 @@
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the case law of the Sąd Najwyższy (Supreme Court), Poland, which global-law reads at `poland/sad-najwyzszy/caselaw/`.
 
 Every judgment of the Sąd Najwyższy (Supreme Court) that SAOS (System Analizy Orzeczeń Sądowych) holds with its text, as a git history: one file per
-judgment, one commit per judgment, dated the day it was given. 38,080 judgments from 1994-01-20 to 2026-11-07.
+judgment, one commit per judgment, dated the day it was given. 38,080 judgments given from 1994-01-20 to 2016-06-22, as SAOS held them on 2026-11-07. SAOS holds no judgment of the Sąd Najwyższy (Supreme Court) given after 2016-06-22: later judgments are not in this record, though it was checked against SAOS on 2026-11-07.
 
 ## Questions as git commands
 
